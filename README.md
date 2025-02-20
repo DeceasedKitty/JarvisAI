@@ -1,5 +1,8 @@
 # **JarvisAI**  
 ### *"Jarvis, Clip that."*  
+### *"Jarvis, Start."* 
+### *"Jarvis, Stop."*
 
-Uses OBS to clip the last 30 secs with voice recognition.  
+Uses NVIDIA ShadowPlay/Replay to clip and record.
+Uses google voice recognition, this thing is horrible.
 Mainly for **Marvel Rivals**.  
